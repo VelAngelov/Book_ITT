@@ -17,7 +17,6 @@ public class P10_sortArrays {
 		System.out.println(Arrays.toString(arr1));
 		System.out.println(Arrays.toString(arr2));
 		System.out.println(Arrays.toString(sorted));
-
 	}
 
 	public static int[] sortArr(int[] arr1, int[] arr2) {
